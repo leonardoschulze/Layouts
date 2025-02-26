@@ -1,0 +1,29 @@
+.azul{
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+.amarela{
+    background-color: rgb(2, 30, 192);
+    padding: 100px;
+    margin: 20px;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+body{
+    background-color: rgb(253, 143, 39);
+
+}
+
+.esticar{
+    padding-right: 340px;
+}
+
+.alongar{
+    padding-top: 300px;
+}
